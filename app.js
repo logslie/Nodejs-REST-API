@@ -18,7 +18,7 @@ app.use(methodOverride());
 var router = express.Router();
 
 router.get('/', function(req, res){
-	res.send("Hello World!");
+	res.send("GET call!");
     });
 
 

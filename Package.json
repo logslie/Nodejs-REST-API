@@ -1,0 +1,10 @@
+{	
+"name" :  "config-tequila-API",
+"version" : "0.0.1",
+"dependencies" : {
+"express" : "^4.7.1",
+"method-override" : "^2.1.2",
+"body-parser" : "^1.5.1"
+}
+
+}
